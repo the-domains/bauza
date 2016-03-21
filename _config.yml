@@ -1,0 +1,28 @@
+name: bauza
+favicon: null
+layout_spectrum: 0.19646627502515912
+typography_spectrum: 0.2862408924847841
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9544765455648303
+  lightness: 0.13269287650473416
+  saturation: 0.6710429997183383
+  rhythmicContrast: 0.8113783043809235
+purpose: []
